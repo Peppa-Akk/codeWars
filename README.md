@@ -9,3 +9,4 @@ squareEveryDigit - https://www.codewars.com/kata/546e2562b03326a88e000020
 goingToTheCinema - https://www.codewars.com/kata/562f91ff6a8b77dfe900006e
 foldAnArray - https://www.codewars.com/kata/57ea70aa5500adfe8a000110
 functionAddition - https://www.codewars.com/kata/538835ae443aae6e03000547
+whiteOrBlack - https://www.codewars.com/kata/563319974612f4fa3f0000e0/python
